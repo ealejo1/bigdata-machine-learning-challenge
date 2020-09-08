@@ -1,6 +1,6 @@
 # Machine Learning using Spotify API
 
-Spotify has python library called 'Spotipy' where we can use to extract songs/tracks, albums, playlist, artist, etc. in Spotify API.
+Spotify has python library called 'Spotipy' where we can use to extract songs/tracks, albums, playlist, artist, genre, etc. in Spotify API.
 <br>
 
 ## Idea Overview
@@ -36,7 +36,7 @@ Using jupyter notebook, we call and pull the list of tracks from each of these 7
 2. Hiphop
 3. Rock
 4. Jazz
-5. Kpop
+5. K-Pop
 6. Intrumental
 7. ASMR
 
