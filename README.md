@@ -12,7 +12,7 @@ Using user interaction, we will ask a few questions to the user to receive their
 <b>Result Website link: </b> https://spotify-woof.herokuapp.com/
 <br><br>
 <b> Steps: </b>
-1. Extract Songs/Tracks Data from Spotify API (Spotipy) by Genres
+1. Extract Songs/Tracks Data from Spotify API (Spotipy) by Genre.
 2. Clean The Collected Data and Consolidate All Different Genres CSVs into One CSV
 3. Create A Training and Testing Machine Learning Model and Decide The Best Model with Highest Accuracy
 4. Build Flask App to Run Machine Learning and Make Prediction
@@ -33,11 +33,11 @@ https://developer.spotify.com/dashboard/login
 <br><br>
 Using jupyter notebook, we call and pull the list of tracks from each of these 7 genres from Spotipy:
 1. Pop
-2. Hiphop
+2. Hip Hop
 3. Rock
 4. Jazz
 5. K-Pop
-6. Intrumental
+6. Instrumental
 7. ASMR
 
 We extract 1000 songs/tracks for each genres, which gives us a total of 7000 songs/tracks in total.
