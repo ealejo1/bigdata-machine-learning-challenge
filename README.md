@@ -40,7 +40,7 @@ Using jupyter notebook, we call and pull the list of tracks from each of these 7
 6. Instrumental
 7. ASMR
 
-We extract 1000 songs/tracks for each genres, which gives us a total of 7000 songs/tracks in total.
+We extracted 1000 songs/tracks for each genre, which gives us a total of 7000 songs/tracks.
 <br><br>
 ### 2. Clean The Collected Data and Consolidate All Different Genres CSVs into One CSV
 
